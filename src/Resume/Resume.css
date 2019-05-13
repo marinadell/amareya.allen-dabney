@@ -1,0 +1,21 @@
+
+
+.skillsList {
+    column-count: 3;
+}
+
+ul {
+    text-align: left;
+}
+
+.date{
+    font-style: italic;
+}
+
+.experience {
+    column-count: 2;
+}
+
+.education {
+    column-count: 2;
+}

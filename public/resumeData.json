@@ -1,0 +1,204 @@
+{
+  "main": {
+    "name":"Amareya Allen-Dabney",
+    "occupation":"(Full-Stack Developer)",
+    "description":"I am a enthusiat of problem solving.  am currently enrolled at Prime Digital Academylearning an array of different programming languages.",
+    "image":"profilepic.jpg",
+    "bio":"I am a retail manager turned developer. I mainly work with ReactJS, Node and Postgres to create full stack applications. I also have an interest in learning native languages nad React Native.",
+    "contactmessage":"If you would like to contact me about employment please contact me at.",
+    "email": "a.allendabney@gmail.com",
+    "phone": "(651)338-6794",
+    "address":{
+      "street":"1996 County Rd D E",
+      "city":"Saint Paul",
+      "state":"MN",
+      "zip": "55109"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1y8P2wmtpNU9PmHVgcRJOQuAUn-okQrot7tmQ_LbRjq8/edit#",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/amareya-allen-dabney-5922b5181/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/marinadell",
+        "className":"fa fa-github"
+      }
+
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some technologies I am familiar with:",
+    "education":[
+      {
+        "school":"Prime Digital Academy ",
+        "degree":"Full Stack Software Engineering Certificate",
+        "graduated":"June 2019",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Saint Paul College",
+        "degree":"What did you study 101",
+        "graduated":"Decemember 2012-May 2014",
+        "description":"Courses taken towards a Communication degree and Computer Science degree."
+      }
+    ],
+    "work":[
+      {
+        "company":"Prime Digital Academy-",
+        "title":"Software Development Student",
+        "years":"January 2019 - PRESENT",
+        "description":"Sole Check- This app was created for sneakerhead to be able to catalog their shoes and update when they wore the shoe. On this app the user has the ability to upload new shoes, view all their shoes, update the date it was worn and delete the shoe if removed from their collection. Node, Express, React, Redux, React-redux, Redux-logger, Redux-saga, react-router-dom, Postgresql, AWS S3, Moment.js, Material UI, Sweet Alert, Passport"
+      },
+      {
+        "company":"Lutheran Social Services",
+        "title":"Direct Support Professional",
+        "years":"January 2019 - PRESENT",
+        "description":"Provide guidance and encouragement, through relationship building and direct interaction with vulnerable adults. Advocate for individuals in all aspects on life, and support individuals in essential living skills."
+      },
+      {
+        "company":"UPS",
+        "title":"Package Unloader",
+        "years":"November 2018 - January 2019",
+        "description":"Unload freight off of trucks to be transported to a different location. Maintain workflow at 100 packages an hour."
+      },
+      {
+        "company":"CoreLogic",
+        "title":"Customer Service Representative",
+        "years":"April 2018 - November 2018",
+        "description":"Assist external customers with property appraisal concerns and inquiries. Utilized multiple systems and technologies. Maintain individual performance relative to inbound calls and outbound calls."
+      },
+      {
+        "company":"Foot Locker",
+        "title":"Store Manager",
+        "years":"November 2014 - April 2018",
+        "description":"Coach and lead a team in delivering a quality in-store experience. Lead the team in day to day store operations, training and employee management. Maximize profit goals and drive sales. Learn all updates to our register’s operating system and train managers on new updates."
+      },
+      {
+        "company":"Radio Shack",
+        "title":"Store Manager",
+        "years":"July 2013 - August 2014",
+        "description":"Complete store readiness requirements. Maintain store staff by coaching, counseling and disciplining employees as needed. Achieve financial obligations by preparing an annual budget, scheduling expenditures and analyzing variances."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"jQuery",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"Redux",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"Passport",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"40%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"Express",
+        "level":"80%"
+      },
+      {
+        "name":"Ruby",
+        "level":"40%"
+      },
+      {
+        "name":"Sinatra",
+        "level":"40%"
+      },
+      {
+        "name":"Material-UI",
+        "level":"70%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"Postgres",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
