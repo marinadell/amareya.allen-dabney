@@ -3,7 +3,7 @@ import React from 'react';
 function Experience() {
   return (
       <div>
-          <h3>Experiences</h3>
+          <h3>Experience</h3>
           <div className="experience">
           <h4>Prime Digital Academy- <p className="position">Software Development Student</p></h4>
           <p className="date">JANUARY  2019 - PRESENT</p>
