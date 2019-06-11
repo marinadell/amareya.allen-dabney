@@ -2,7 +2,7 @@
   "main": {
     "name":"Amareya Allen-Dabney",
     "occupation":"(Full-Stack Developer)",
-    "description":"I am a enthusiat of problem solving. I am currently enrolled at Prime Digital Academylearning an array of different programming languages.",
+    "description":"I am an enthusiast of problem solving. I recently graduated from Prime Digital Academy with a Full-Stack Engineering Certificate",
     "image":"profilepic.jpg",
     "bio":"I am a retail manager turned developer. I mainly work with ReactJS, Node and Postgres to create full stack applications. I also have an interest in learning native languages nad React Native.",
     "contactmessage":"If you would like to contact me about employment please contact me at.",
@@ -14,7 +14,7 @@
       "state":"MN",
       "zip": "55109"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "n/a",
     "resumedownload":"https://docs.google.com/document/d/1y8P2wmtpNU9PmHVgcRJOQuAUn-okQrot7tmQ_LbRjq8/edit#",
     "social":[
       {
@@ -158,34 +158,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Sole Check",
+        "category":"My sneaker catalog, to keep track of when I wear my shoes.",
+        "image":"sole-check.jpg",
+        "url":"https://github.com/marinadell/sole-check"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"MinnePLan",
+        "category":"Centralizes communication for site-coordinators and instructors",
+        "image":"MinnePlan.jpg",
+        "url":"https://github.com/marinadell/minnePlan"
       }
     ]
   },
