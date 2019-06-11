@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Amareya Allen-Dabney",
-    "occupation":"(Full-Stack Developer)",
+    "occupation":"Full-Stack Developer",
     "description":"I am an enthusiast of problem solving. I recently graduated from Prime Digital Academy with a Full-Stack Engineering Certificate",
     "image":"profilepic.jpg",
     "bio":"I am a retail manager turned developer. I mainly work with ReactJS, Node and Postgres to create full stack applications. I also have an interest in learning native languages nad React Native.",
@@ -37,7 +37,7 @@
         "school":"Prime Digital Academy ",
         "degree":"Full Stack Software Engineering Certificate",
         "graduated":"June 2019",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"I learned full stack using Node.js, React.js, JavaScript, Express, Postgres, MongoDB, SQL, HTML, and CSS"
       },
       {
         "school":"Saint Paul College",
