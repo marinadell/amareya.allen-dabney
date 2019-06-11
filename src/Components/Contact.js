@@ -50,17 +50,17 @@ class Contact extends Component {
                   </div>
 
                   <div>
-						   <label htmlFor="contactSubject">Subject</label>
+						   <label htmlFor="contactSubject"> Subject</label>
 						   <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange}/>/>
                   </div>
 
                   <div>
-                     <label htmlFor="contactMessage">Message <span className="required">*</span></label>
+                     <label htmlFor="contactMessage"> Message <span className="required">*</span></label>
                      <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
                   </div>
 
                   <div>
-                     <button className="submit">Submit</button>
+                     <button className="submit"> Submit</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
